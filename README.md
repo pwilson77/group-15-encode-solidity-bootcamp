@@ -1,17 +1,18 @@
 Homework:
-    -Read the references
-    -Finish covering other operations with scripts
+1. Read the references
+2. Finish covering other operations with scripts
 
 Weekend Project
-    -Form groups of 3 to 5 students
+1. Form groups of 3 to 5 students
 Structure scripts to:
-    -Deploy
-    -Query proposals
-    -Give vote right passing an address as input
-    -Cast a vote to a ballot passing contract address and proposal as input and using the wallet in environment
-    -Delegate my vote passing user address as input and using the wallet in environment
-    -Query voting result and print to console
-    -Publish the project in Github
-    -Run the scripts with a set of proposals, cast and delegate votes and inspect results
-    -Write a report detailing the addresses, transaction hashes, description of the operation script being executed and console output from script execution for each step (Deployment, giving voting rights, casting/delegating and querying results).
+1. Deploy
+2. Query proposals
+3. Give vote right passing an address as input
+4. Cast a vote to a ballot passing contract address and proposal as input and using the wallet in environment
+5. Delegate my vote passing user address as input and using the wallet in environment
+6. Query voting result and print to console
+7. Publish the project in Github
+8. Run the scripts with a set of proposals, cast and delegate votes and inspect results
+9. Write a report detailing the addresses, transaction hashes, description of the operation script being executed and console output from script execution for each step (Deployment, giving voting rights, casting/delegating and querying results).
+
 (Extra) Use TDD methodology
